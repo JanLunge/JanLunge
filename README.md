@@ -1,7 +1,7 @@
 <!-- Jan Lunge -->
 # Hello there! 👋
 
-I'm [Jan Lunge], a passionate TypeScript developer. I love creating scalable and performant web applications. Here's a glimpse of my work:
+I'm Jan Lunge, a passionate TypeScript developer. I love creating scalable and performant web applications. Here's a glimpse of my work:
 
 ## Projects
 
@@ -37,5 +37,4 @@ Badges, stats, or any other visually appealing elements can be added here using 
 - 🔭 I’m currently working on the expansion on the Heaper
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on changing the world
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: discord @JanLunge
