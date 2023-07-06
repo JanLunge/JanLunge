@@ -7,6 +7,7 @@ I'm Jan Lunge, a passionate TypeScript developer. I love creating scalable and p
 - [Twitch Overlay](https://github.com/JanLunge/twitch-overlay) and [witchbot](https://github.com/JanLunge/witchbot): a bot and twitch overlay for my livestreams that works like magic
 - [Heaper](https://heaper.de): A decentralized planner for a new structure on the internet [Closed Source | open Protocol and API]
 - [Pog](https://github.com/JanLunge/pog): a keyboard Flashing tool for kmk based keyboards
+- [orbit](https://github.com/JanLunge/orbit): a modular LLM toolkit for building voice assistants
 - [Keyboards](https://github.com/JanLunge/keyboards): 3D printable keyboards designed by me
 
 ## YouTube Channel
